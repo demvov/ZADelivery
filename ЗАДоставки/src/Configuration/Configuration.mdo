@@ -41,4 +41,5 @@
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.test</catalogs>
   <documents>Document.Док</documents>
+  <reports>Report.Отчет</reports>
 </mdclass:Configuration>
